@@ -1,0 +1,15 @@
+[
+    { "name": "Smart Phones", "url": "/category/0" },
+    { "name": "Clothing", "url": "/category/1" },
+    { "name": "Accessories", "url": "/category/2" },
+    { "name": "iphone", "url": "/category/0/iphone" },
+    { "name": "One Plus", "url": "/category/0/ONE%20PLUS" },
+    { "name": "SamSung", "url": "/category/0/Samsung" },
+    { "name": "Pant", "url": "/category/1/Pant" },
+    { "name": "Shirt", "url": "/category/1/Shirt" },
+    { "name": "T-Shirt", "url": "/category/1/T-Shirt" },
+    { "name": "Headphone", "url": "/category/2/Headphone" },
+    { "name": "Mouse", "url": "/category/2/Mouse" },
+    { "name": "KeyBoard", "url": "/category/2/keyboard" }
+]
+  
